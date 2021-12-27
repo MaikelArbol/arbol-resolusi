@@ -1,0 +1,6 @@
+Arbol Resolusi
+- Menguasai HTML.
+- Menguasai CSS.
+- Menguasai Javascript.
+- Menguasai PHP.
+- Menguasai Web Programing(Full Stack).
