@@ -4,4 +4,4 @@ Arbol Resolusi
 - Menguasai Javascript.
 - Menguasai PHP.
 - Menguasai Web Programing(Full Stack).
-- Menguasai Framework CSS.
+- Menguasai Framework PHP.
